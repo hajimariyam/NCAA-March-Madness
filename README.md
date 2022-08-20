@@ -2,7 +2,7 @@
  
 A C++ program that reads in and analyzes data from the NCAA Basketball Tournaments (March Madness) spanning 2021–2022. 
 
-It displays the path taken to the championship, determines which region is expected to win at a given round, and you can also compare the actual brackets to your own predictions! The hierarchy of the brackets is implemented via linked lists to evaluate the resulting brackets if earlier games had a different outcome. Other menu options are listed below.
+It displays the path taken to the championship, determines which region is expected to win at a given round, and you can also compare the actual brackets to your own predictions! The hierarchy of the brackets is also implemented via linked lists to evaluate the resulting brackets if earlier games had a different outcome. Other menu options are listed below.
 
 CSV data files for the following three tournaments are provided: 2021 Men’s, 2022 Men’s, 2022 Women’s. Four CSV files with prediction data for these tournaments are also provided. Each file is sorted in the following order: Championship game, Final Four games, games of each region. Within each region, the games are sorted and grouped by round number. 
 
