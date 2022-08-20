@@ -45,3 +45,5 @@ In the case of a tie, the region displayed is the first region in the order they
 - **Menu Option 9** – Exit the program.
 
 *Note:* A diagram of the sub-brackets for the 2022 Men’s Tournament is included in the repository and can be used to better understand the program execution.
+
+***TO DO ::*** Combine main1.cpp and main2.cpp files and organize menu options. Currently, the menu options above are split between both files.
